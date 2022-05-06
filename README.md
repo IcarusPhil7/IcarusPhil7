@@ -1,4 +1,4 @@
-Phillip(He/Him)
+
 I'm pretty new to coding and stuff but I'm figuring things out so here goes nothing
 
 <!---
